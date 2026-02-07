@@ -41,7 +41,7 @@ namespace Exponents
             int cubedValue = Cube(num);
             // OUTPUT
             // set the output to visible
-            XOutputLabel.Text = squaredValue.ToString() + cubedValue.ToString();
+            XOutputLabel.Text = "Squared: " + squaredValue.ToString() + " Cubed: " + cubedValue.ToString();
             XOutputLabel.Visible = true;
             // turn the Go button off
             XGoButton.Enabled = false;
