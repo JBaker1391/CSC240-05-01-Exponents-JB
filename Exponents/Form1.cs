@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name: Julian Baker
+ * Date:February 7, 2026
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
