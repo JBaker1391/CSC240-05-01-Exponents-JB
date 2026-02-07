@@ -64,7 +64,7 @@ namespace Exponents
             // turn the Go button back on
             XInputTextBox.Text = string.Empty;
             XOutputLabel.Text = string.Empty;
-            XOutputLabel.Visible=false;
+            XOutputLabel.Visible = false;
             XGoButton.Enabled = true;
         }
 
